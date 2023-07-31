@@ -1,0 +1,87 @@
+
+html{
+    background: #191919;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+.caixa{
+    font-size: 20px;
+    color: white;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    background: #191919;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 150px;
+}
+
+button{
+    height: 30px;
+    width: 50px;
+    background: white;
+    color: blue;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+.t2{
+    background: white;
+}
+
+.st1{
+    right: 600px;
+    position: relative;
+    top: 130px;
+}
+
+.st2{
+    top: -180px;
+    position: relative;
+    left: 350px;
+}
+
+.st3{
+    top: -180px;
+    position: relative;
+    right: 450px;
+}
+
+.st4{
+    bottom: -180px;
+    position: relative;
+    left: 100px;
+}
+
+.st5{
+    top: 80px;
+    position: relative;
+    left: 350px;
+}
+
+.st6{
+    right: 800px;
+    position: relative;
+    top: -80px;
+}
