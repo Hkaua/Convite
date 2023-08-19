@@ -21,4 +21,4 @@ Para utilizar este código, você só precisa de um navegador web moderno.
 * 4 - Clique no botão "Sim" ou "Não" para escolher sua resposta.
 * 5 - Se escolher "Não", você será redirecionado automaticamente para outra parte do site.
 
-##
+## 
